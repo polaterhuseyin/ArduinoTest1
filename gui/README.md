@@ -178,3 +178,8 @@ ADC_MAX      = 16383           # ADC maximum value (14-bit)
 ## License
 
 This is a test utility for Arduino development. Use as needed in your projects.
+
+
+## Additional Info
+
+Please contact with Huseyin Polater for additional support
